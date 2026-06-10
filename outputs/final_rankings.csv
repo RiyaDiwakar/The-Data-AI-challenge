@@ -1,0 +1,1180 @@
+rank,candidate_id,score,title
+1,CAND_0018499,59.61,Senior Machine Learning Engineer
+2,CAND_0002025,59.34,Senior AI Engineer
+3,CAND_0039754,58.91,Senior Applied Scientist
+4,CAND_0049538,58.2,Applied ML Engineer
+5,CAND_0088025,57.08,Staff Machine Learning Engineer
+6,CAND_0018722,56.68,Recommendation Systems Engineer
+7,CAND_0061265,56.24,Recommendation Systems Engineer
+8,CAND_0014440,56.22,Recommendation Systems Engineer
+9,CAND_0033861,56.19,Senior NLP Engineer
+10,CAND_0081846,56.03,Lead AI Engineer
+11,CAND_0060072,55.69,Staff Machine Learning Engineer
+12,CAND_0046525,55.65,Senior Machine Learning Engineer
+13,CAND_0086022,55.46,Senior Applied Scientist
+14,CAND_0046064,55.4,Senior NLP Engineer
+15,CAND_0041610,55.37,Recommendation Systems Engineer
+16,CAND_0077337,55.3,Staff Machine Learning Engineer
+17,CAND_0055905,55.25,Senior Machine Learning Engineer
+18,CAND_0093547,55.0,Senior Machine Learning Engineer
+19,CAND_0071974,54.85,Senior AI Engineer
+20,CAND_0070202,54.68,Machine Learning Engineer
+21,CAND_0069905,54.67,Applied ML Engineer
+22,CAND_0041669,54.63,Recommendation Systems Engineer
+23,CAND_0005649,54.49,Senior Data Scientist
+24,CAND_0064326,54.47,Search Engineer
+25,CAND_0005260,54.24,Senior NLP Engineer
+26,CAND_0070398,54.11,Machine Learning Engineer
+27,CAND_0008425,53.82,Senior NLP Engineer
+28,CAND_0066376,53.62,Applied ML Engineer
+29,CAND_0028793,53.58,Search Engineer
+30,CAND_0075249,53.53,Applied ML Engineer
+31,CAND_0086151,53.25,Recommendation Systems Engineer
+32,CAND_0098846,53.17,AI Engineer
+33,CAND_0062247,52.69,AI Engineer
+34,CAND_0052328,52.52,Recommendation Systems Engineer
+35,CAND_0044883,52.5,AI Engineer
+36,CAND_0055992,52.47,AI Engineer
+37,CAND_0093912,52.39,Senior Data Scientist
+38,CAND_0030827,52.18,Senior Data Scientist
+39,CAND_0040887,52.07,Machine Learning Engineer
+40,CAND_0099806,52.05,AI Engineer
+41,CAND_0026532,51.98,Recommendation Systems Engineer
+42,CAND_0061339,51.51,Search Engineer
+43,CAND_0084819,51.46,Search Engineer
+44,CAND_0045250,51.42,Applied ML Engineer
+45,CAND_0011687,51.34,Senior NLP Engineer
+46,CAND_0094759,51.11,Lead AI Engineer
+47,CAND_0051292,51.07,Applied ML Engineer
+48,CAND_0000031,51.0,Recommendation Systems Engineer
+49,CAND_0054123,50.85,Applied ML Engineer
+50,CAND_0083307,50.73,Search Engineer
+51,CAND_0044222,50.71,AI Engineer
+52,CAND_0024466,50.69,Search Engineer
+53,CAND_0029367,50.63,Senior Data Scientist
+54,CAND_0041568,50.48,Search Engineer
+55,CAND_0006557,50.44,NLP Engineer
+56,CAND_0079064,50.44,Senior Data Scientist
+57,CAND_0012957,50.39,Search Engineer
+58,CAND_0096142,50.38,Applied ML Engineer
+59,CAND_0042506,50.32,Search Engineer
+60,CAND_0092278,50.26,Senior NLP Engineer
+61,CAND_0037566,50.24,Machine Learning Engineer
+62,CAND_0079387,50.16,AI Engineer
+63,CAND_0050454,50.09,AI Engineer
+64,CAND_0018549,50.07,Recommendation Systems Engineer
+65,CAND_0024620,49.99,AI Engineer
+66,CAND_0065195,49.88,Search Engineer
+67,CAND_0042029,49.74,Senior Data Scientist
+68,CAND_0081686,49.72,Search Engineer
+69,CAND_0041611,49.4,Staff Machine Learning Engineer
+70,CAND_0031593,49.36,Search Engineer
+71,CAND_0011162,49.26,Recommendation Systems Engineer
+72,CAND_0001610,49.25,Machine Learning Engineer
+73,CAND_0047721,49.23,Senior Data Scientist
+74,CAND_0020708,49.21,Search Engineer
+75,CAND_0076251,49.19,Search Engineer
+76,CAND_0039383,49.18,Applied ML Engineer
+77,CAND_0065878,49.13,Senior Data Scientist
+78,CAND_0013613,49.02,Machine Learning Engineer
+79,CAND_0051615,49.0,Search Engineer
+80,CAND_0007411,48.96,Senior Machine Learning Engineer
+81,CAND_0076904,48.79,Senior Data Scientist
+82,CAND_0049896,48.78,Search Engineer
+83,CAND_0013536,48.62,Applied ML Engineer
+84,CAND_0094056,48.55,NLP Engineer
+85,CAND_0054394,48.4,Recommendation Systems Engineer
+86,CAND_0078002,48.34,Machine Learning Engineer
+87,CAND_0068811,48.17,Applied ML Engineer
+88,CAND_0040117,48.05,Recommendation Systems Engineer
+89,CAND_0050876,47.96,Applied ML Engineer
+90,CAND_0019480,47.95,NLP Engineer
+91,CAND_0044890,47.9,AI Research Engineer
+92,CAND_0016163,47.83,Applied ML Engineer
+93,CAND_0064904,47.75,AI Engineer
+94,CAND_0051630,47.74,Machine Learning Engineer
+95,CAND_0075574,47.72,Machine Learning Engineer
+96,CAND_0007460,47.58,AI Engineer
+97,CAND_0030348,47.5,Machine Learning Engineer
+98,CAND_0037944,47.38,Senior Data Scientist
+99,CAND_0036437,47.37,Search Engineer
+100,CAND_0095528,47.33,Senior Data Scientist
+101,CAND_0099401,47.28,NLP Engineer
+102,CAND_0091534,47.16,AI Engineer
+103,CAND_0060054,47.1,AI Engineer
+104,CAND_0078042,46.97,Applied ML Engineer
+105,CAND_0006567,46.82,Senior AI Engineer
+106,CAND_0066999,46.8,Recommendation Systems Engineer
+107,CAND_0016170,46.74,AI Research Engineer
+108,CAND_0009024,46.57,Search Engineer
+109,CAND_0020877,46.57,Applied ML Engineer
+110,CAND_0006418,46.55,Machine Learning Engineer
+111,CAND_0053695,46.48,Recommendation Systems Engineer
+112,CAND_0015528,46.4,Applied ML Engineer
+113,CAND_0080766,46.37,Staff Machine Learning Engineer
+114,CAND_0030031,46.31,AI Engineer
+115,CAND_0061175,46.22,AI Research Engineer
+116,CAND_0044855,45.91,Senior Data Scientist
+117,CAND_0096172,45.91,NLP Engineer
+118,CAND_0009691,45.79,Applied ML Engineer
+119,CAND_0057701,45.79,Recommendation Systems Engineer
+120,CAND_0076831,45.7,Search Engineer
+121,CAND_0061655,45.56,Machine Learning Engineer
+122,CAND_0030953,45.5,Search Engineer
+123,CAND_0001930,45.45,Senior Software Engineer (ML)
+124,CAND_0057563,45.41,NLP Engineer
+125,CAND_0064270,45.29,Applied ML Engineer
+126,CAND_0047521,45.23,Junior ML Engineer
+127,CAND_0053591,45.08,AI Engineer
+128,CAND_0058575,45.05,AI Engineer
+129,CAND_0003977,45.03,Recommendation Systems Engineer
+130,CAND_0052335,44.98,Applied ML Engineer
+131,CAND_0037000,44.89,Search Engineer
+132,CAND_0010685,44.88,NLP Engineer
+133,CAND_0070485,44.88,Search Engineer
+134,CAND_0032515,44.75,Machine Learning Engineer
+135,CAND_0043228,44.73,Applied ML Engineer
+136,CAND_0043381,44.66,AI Research Engineer
+137,CAND_0007009,44.58,Recommendation Systems Engineer
+138,CAND_0036184,44.44,Recommendation Systems Engineer
+139,CAND_0090300,44.35,AI Research Engineer
+140,CAND_0078492,44.33,Recommendation Systems Engineer
+141,CAND_0092706,44.28,AI Research Engineer
+142,CAND_0042100,44.1,Machine Learning Engineer
+143,CAND_0027691,44.09,NLP Engineer
+144,CAND_0008239,44.07,AI Engineer
+145,CAND_0081709,44.03,AI Research Engineer
+146,CAND_0081852,43.93,Senior Data Scientist
+147,CAND_0074735,43.89,Applied ML Engineer
+148,CAND_0092245,43.87,Senior Data Scientist
+149,CAND_0049978,43.85,Senior Software Engineer (ML)
+150,CAND_0014858,43.84,AI Research Engineer
+151,CAND_0007412,43.82,Applied ML Engineer
+152,CAND_0005538,43.66,Senior AI Engineer
+153,CAND_0030468,43.56,Senior Applied Scientist
+154,CAND_0076163,43.56,NLP Engineer
+155,CAND_0022812,43.45,Applied ML Engineer
+156,CAND_0063585,43.45,AI Research Engineer
+157,CAND_0074225,43.32,Machine Learning Engineer
+158,CAND_0077285,43.23,Recommendation Systems Engineer
+159,CAND_0017960,43.21,Recommendation Systems Engineer
+160,CAND_0009837,43.2,Senior Data Scientist
+161,CAND_0037980,43.13,Senior Applied Scientist
+162,CAND_0010541,43.12,AI Research Engineer
+163,CAND_0083879,43.01,Machine Learning Engineer
+164,CAND_0045862,42.89,AI Specialist
+165,CAND_0052682,42.83,NLP Engineer
+166,CAND_0016267,42.82,AI Specialist
+167,CAND_0008295,42.8,AI Research Engineer
+168,CAND_0011327,42.8,AI Research Engineer
+169,CAND_0049615,42.79,ML Engineer
+170,CAND_0079284,42.76,Machine Learning Engineer
+171,CAND_0093799,42.72,Data Scientist
+172,CAND_0011125,42.59,Junior ML Engineer
+173,CAND_0052712,42.57,AI Research Engineer
+174,CAND_0035879,42.51,AI Research Engineer
+175,CAND_0059504,42.5,Junior ML Engineer
+176,CAND_0002120,42.48,ML Engineer
+177,CAND_0093185,42.46,AI Research Engineer
+178,CAND_0065835,42.39,Junior ML Engineer
+179,CAND_0098952,42.33,AI Research Engineer
+180,CAND_0010257,42.32,Senior Data Scientist
+181,CAND_0011643,42.27,AI Research Engineer
+182,CAND_0033179,42.22,AI Research Engineer
+183,CAND_0091909,42.19,Machine Learning Engineer
+184,CAND_0043676,42.16,Senior Software Engineer (ML)
+185,CAND_0067643,42.15,AI Research Engineer
+186,CAND_0051004,42.09,Senior Data Scientist
+187,CAND_0021491,42.08,AI Research Engineer
+188,CAND_0082489,42.06,ML Engineer
+189,CAND_0068351,42.03,Lead AI Engineer
+190,CAND_0097896,42.02,AI Research Engineer
+191,CAND_0066798,42.0,ML Engineer
+192,CAND_0069638,41.92,Computer Vision Engineer
+193,CAND_0000981,41.89,ML Engineer
+194,CAND_0022852,41.89,AI Research Engineer
+195,CAND_0079830,41.81,Junior ML Engineer
+196,CAND_0068932,41.8,ML Engineer
+197,CAND_0010603,41.77,ML Engineer
+198,CAND_0023215,41.76,Junior ML Engineer
+199,CAND_0043829,41.69,AI Research Engineer
+200,CAND_0070525,41.68,Senior Software Engineer (ML)
+201,CAND_0036863,41.6,Senior Data Scientist
+202,CAND_0032527,41.49,Junior ML Engineer
+203,CAND_0043958,41.49,AI Research Engineer
+204,CAND_0060303,41.47,AI Research Engineer
+205,CAND_0036973,41.45,AI Research Engineer
+206,CAND_0024878,41.41,AI Specialist
+207,CAND_0087364,41.38,Recommendation Systems Engineer
+208,CAND_0001218,41.37,AI Specialist
+209,CAND_0064331,41.35,Senior Software Engineer (ML)
+210,CAND_0015643,41.34,AI Research Engineer
+211,CAND_0004972,41.3,ML Engineer
+212,CAND_0005311,41.28,AI Research Engineer
+213,CAND_0059017,41.28,AI Research Engineer
+214,CAND_0001494,41.26,Data Scientist
+215,CAND_0095207,41.25,Computer Vision Engineer
+216,CAND_0095567,41.25,Data Scientist
+217,CAND_0039838,41.24,Recommendation Systems Engineer
+218,CAND_0033749,41.22,Computer Vision Engineer
+219,CAND_0008517,41.18,AI Research Engineer
+220,CAND_0082913,41.14,Senior Software Engineer (ML)
+221,CAND_0048166,41.1,ML Engineer
+222,CAND_0066309,41.08,Senior Software Engineer (ML)
+223,CAND_0018604,41.06,Junior ML Engineer
+224,CAND_0073007,41.05,AI Specialist
+225,CAND_0004402,41.04,AI Research Engineer
+226,CAND_0072660,40.99,Machine Learning Engineer
+227,CAND_0049771,40.98,AI Research Engineer
+228,CAND_0022720,40.96,AI Research Engineer
+229,CAND_0060340,40.93,Computer Vision Engineer
+230,CAND_0067866,40.93,Senior Software Engineer (ML)
+231,CAND_0088878,40.93,Senior Software Engineer (ML)
+232,CAND_0095619,40.93,NLP Engineer
+233,CAND_0018925,40.88,AI Research Engineer
+234,CAND_0025640,40.85,AI Research Engineer
+235,CAND_0018888,40.83,AI Research Engineer
+236,CAND_0064130,40.8,AI Research Engineer
+237,CAND_0058412,40.79,Senior Software Engineer (ML)
+238,CAND_0072232,40.79,ML Engineer
+239,CAND_0049831,40.78,Computer Vision Engineer
+240,CAND_0041348,40.77,AI Research Engineer
+241,CAND_0023587,40.73,ML Engineer
+242,CAND_0020494,40.72,AI Research Engineer
+243,CAND_0024147,40.69,ML Engineer
+244,CAND_0021410,40.68,Junior ML Engineer
+245,CAND_0091890,40.66,AI Research Engineer
+246,CAND_0038206,40.65,Data Scientist
+247,CAND_0082314,40.63,Junior ML Engineer
+248,CAND_0043860,40.6,Junior ML Engineer
+249,CAND_0070333,40.6,AI Research Engineer
+250,CAND_0069248,40.57,AI Research Engineer
+251,CAND_0048509,40.56,AI Research Engineer
+252,CAND_0017918,40.53,ML Engineer
+253,CAND_0052360,40.53,ML Engineer
+254,CAND_0016678,40.48,Junior ML Engineer
+255,CAND_0027801,40.46,NLP Engineer
+256,CAND_0090155,40.46,ML Engineer
+257,CAND_0039308,40.41,AI Research Engineer
+258,CAND_0028527,40.4,AI Specialist
+259,CAND_0040092,40.33,Senior Software Engineer (ML)
+260,CAND_0002037,40.31,ML Engineer
+261,CAND_0032807,40.24,Machine Learning Engineer
+262,CAND_0013988,40.18,Junior ML Engineer
+263,CAND_0076995,40.14,AI Research Engineer
+264,CAND_0040820,40.13,Senior Software Engineer (ML)
+265,CAND_0075439,40.06,Machine Learning Engineer
+266,CAND_0086893,40.06,ML Engineer
+267,CAND_0037424,40.01,AI Research Engineer
+268,CAND_0081053,39.95,NLP Engineer
+269,CAND_0058152,39.92,Data Scientist
+270,CAND_0014063,39.89,AI Specialist
+271,CAND_0021827,39.87,AI Research Engineer
+272,CAND_0015578,39.84,AI Engineer
+273,CAND_0006538,39.83,AI Specialist
+274,CAND_0089552,39.83,Machine Learning Engineer
+275,CAND_0056262,39.8,Junior ML Engineer
+276,CAND_0009200,39.78,AI Specialist
+277,CAND_0051486,39.78,AI Specialist
+278,CAND_0087316,39.75,AI Research Engineer
+279,CAND_0037290,39.74,Computer Vision Engineer
+280,CAND_0059795,39.73,Senior Software Engineer (ML)
+281,CAND_0034169,39.72,AI Research Engineer
+282,CAND_0097472,39.72,Junior ML Engineer
+283,CAND_0048469,39.69,Computer Vision Engineer
+284,CAND_0071033,39.58,Data Scientist
+285,CAND_0060257,39.54,AI Specialist
+286,CAND_0016659,39.53,ML Engineer
+287,CAND_0037160,39.52,Data Scientist
+288,CAND_0085335,39.51,ML Engineer
+289,CAND_0093883,39.5,AI Research Engineer
+290,CAND_0036484,39.49,AI Research Engineer
+291,CAND_0054318,39.48,AI Research Engineer
+292,CAND_0058146,39.43,AI Research Engineer
+293,CAND_0024990,39.37,Junior ML Engineer
+294,CAND_0025882,39.36,Senior Software Engineer (ML)
+295,CAND_0040178,39.29,ML Engineer
+296,CAND_0031752,39.28,ML Engineer
+297,CAND_0013393,39.24,ML Engineer
+298,CAND_0018653,39.22,ML Engineer
+299,CAND_0058688,39.21,AI Engineer
+300,CAND_0015967,39.18,Senior Software Engineer (ML)
+301,CAND_0087766,39.18,Computer Vision Engineer
+302,CAND_0074325,39.16,AI Research Engineer
+303,CAND_0093331,39.15,NLP Engineer
+304,CAND_0020991,39.11,Junior ML Engineer
+305,CAND_0051219,39.11,AI Research Engineer
+306,CAND_0043318,39.09,Data Scientist
+307,CAND_0084391,39.07,AI Research Engineer
+308,CAND_0095858,39.05,AI Research Engineer
+309,CAND_0045613,39.04,Computer Vision Engineer
+310,CAND_0071205,39.02,Senior Software Engineer (ML)
+311,CAND_0066035,38.99,Data Scientist
+312,CAND_0040200,38.87,AI Research Engineer
+313,CAND_0081321,38.85,Senior Software Engineer (ML)
+314,CAND_0053431,38.82,ML Engineer
+315,CAND_0085557,38.75,Data Scientist
+316,CAND_0061352,38.74,ML Engineer
+317,CAND_0069386,38.66,ML Engineer
+318,CAND_0073620,38.63,AI Research Engineer
+319,CAND_0013122,38.62,AI Specialist
+320,CAND_0070808,38.57,Junior ML Engineer
+321,CAND_0028422,38.54,Junior ML Engineer
+322,CAND_0099751,38.54,Junior ML Engineer
+323,CAND_0060835,38.52,Senior Software Engineer (ML)
+324,CAND_0002344,38.51,Senior Software Engineer (ML)
+325,CAND_0077956,38.46,Computer Vision Engineer
+326,CAND_0010770,38.41,Recommendation Systems Engineer
+327,CAND_0096104,38.4,AI Specialist
+328,CAND_0002426,38.38,Data Scientist
+329,CAND_0046924,38.37,Computer Vision Engineer
+330,CAND_0012837,38.36,Junior ML Engineer
+331,CAND_0035315,38.35,Data Scientist
+332,CAND_0065277,38.34,Computer Vision Engineer
+333,CAND_0007596,38.33,Junior ML Engineer
+334,CAND_0028908,38.33,Junior ML Engineer
+335,CAND_0000273,38.32,ML Engineer
+336,CAND_0003609,38.31,Senior Software Engineer (ML)
+337,CAND_0087744,38.28,Senior Software Engineer (ML)
+338,CAND_0044262,38.27,Data Scientist
+339,CAND_0098454,38.25,AI Specialist
+340,CAND_0008202,38.2,Senior Software Engineer (ML)
+341,CAND_0099269,38.2,Data Scientist
+342,CAND_0001405,38.16,Data Scientist
+343,CAND_0058287,38.16,Computer Vision Engineer
+344,CAND_0014715,38.09,AI Specialist
+345,CAND_0070524,38.09,Junior ML Engineer
+346,CAND_0015065,38.08,AI Research Engineer
+347,CAND_0042370,38.04,Data Scientist
+348,CAND_0080472,38.04,Junior ML Engineer
+349,CAND_0072091,38.02,ML Engineer
+350,CAND_0033911,38.01,Data Scientist
+351,CAND_0045141,38.0,Data Scientist
+352,CAND_0067403,38.0,Junior ML Engineer
+353,CAND_0097176,37.98,ML Engineer
+354,CAND_0026410,37.94,Computer Vision Engineer
+355,CAND_0036121,37.93,ML Engineer
+356,CAND_0038099,37.93,Junior ML Engineer
+357,CAND_0087630,37.93,AI Engineer
+358,CAND_0005303,37.87,Junior ML Engineer
+359,CAND_0092255,37.86,ML Engineer
+360,CAND_0035764,37.8,Senior Software Engineer (ML)
+361,CAND_0055139,37.79,ML Engineer
+362,CAND_0009236,37.76,AI Specialist
+363,CAND_0081480,37.76,Computer Vision Engineer
+364,CAND_0072020,37.72,Senior Software Engineer (ML)
+365,CAND_0023583,37.71,ML Engineer
+366,CAND_0010000,37.7,AI Research Engineer
+367,CAND_0080344,37.7,Senior Software Engineer (ML)
+368,CAND_0083852,37.7,Data Scientist
+369,CAND_0086028,37.64,AI Research Engineer
+370,CAND_0093193,37.64,Senior Machine Learning Engineer
+371,CAND_0003841,37.61,ML Engineer
+372,CAND_0091745,37.6,Junior ML Engineer
+373,CAND_0046108,37.58,ML Engineer
+374,CAND_0004555,37.46,Senior Software Engineer (ML)
+375,CAND_0088335,37.46,AI Research Engineer
+376,CAND_0039521,37.45,Search Engineer
+377,CAND_0048360,37.4,Computer Vision Engineer
+378,CAND_0054100,37.4,Junior ML Engineer
+379,CAND_0029336,37.38,ML Engineer
+380,CAND_0008628,37.37,AI Specialist
+381,CAND_0069771,37.36,Junior ML Engineer
+382,CAND_0054546,37.32,AI Research Engineer
+383,CAND_0009516,37.29,AI Specialist
+384,CAND_0011432,37.28,Senior Data Scientist
+385,CAND_0024549,37.28,AI Specialist
+386,CAND_0070589,37.27,ML Engineer
+387,CAND_0057453,37.26,Computer Vision Engineer
+388,CAND_0033987,37.22,ML Engineer
+389,CAND_0084681,37.22,AI Specialist
+390,CAND_0046526,37.17,ML Engineer
+391,CAND_0077261,37.17,AI Specialist
+392,CAND_0041402,37.16,AI Specialist
+393,CAND_0074123,37.13,Data Scientist
+394,CAND_0075409,37.11,Junior ML Engineer
+395,CAND_0086062,37.08,ML Engineer
+396,CAND_0029294,37.06,AI Research Engineer
+397,CAND_0001151,37.04,Junior ML Engineer
+398,CAND_0080534,36.99,ML Engineer
+399,CAND_0080794,36.98,AI Research Engineer
+400,CAND_0091580,36.94,Data Scientist
+401,CAND_0026913,36.91,AI Specialist
+402,CAND_0052498,36.9,ML Engineer
+403,CAND_0001819,36.89,ML Engineer
+404,CAND_0043304,36.84,Junior ML Engineer
+405,CAND_0046353,36.84,ML Engineer
+406,CAND_0067201,36.83,ML Engineer
+407,CAND_0001056,36.8,Computer Vision Engineer
+408,CAND_0009505,36.71,Computer Vision Engineer
+409,CAND_0012988,36.7,Senior Software Engineer (ML)
+410,CAND_0032089,36.69,ML Engineer
+411,CAND_0070544,36.67,AI Research Engineer
+412,CAND_0001302,36.65,Computer Vision Engineer
+413,CAND_0052706,36.65,AI Research Engineer
+414,CAND_0017648,36.63,AI Specialist
+415,CAND_0021729,36.63,Junior ML Engineer
+416,CAND_0076587,36.57,AI Specialist
+417,CAND_0013665,36.56,Senior Software Engineer (ML)
+418,CAND_0005883,36.55,Computer Vision Engineer
+419,CAND_0089470,36.49,AI Research Engineer
+420,CAND_0007052,36.45,ML Engineer
+421,CAND_0053934,36.45,Computer Vision Engineer
+422,CAND_0030784,36.44,Data Scientist
+423,CAND_0046132,36.44,AI Research Engineer
+424,CAND_0058300,36.42,AI Research Engineer
+425,CAND_0037117,36.39,Computer Vision Engineer
+426,CAND_0060315,36.37,Senior Software Engineer (ML)
+427,CAND_0080372,36.37,Computer Vision Engineer
+428,CAND_0067041,36.36,Data Scientist
+429,CAND_0079176,36.33,AI Specialist
+430,CAND_0067322,36.29,Data Scientist
+431,CAND_0036520,36.28,Data Scientist
+432,CAND_0077552,36.28,Senior Software Engineer (ML)
+433,CAND_0075138,36.25,AI Research Engineer
+434,CAND_0088354,36.25,Junior ML Engineer
+435,CAND_0055673,36.21,Data Scientist
+436,CAND_0077067,36.2,AI Specialist
+437,CAND_0054377,36.19,AI Research Engineer
+438,CAND_0094728,36.18,AI Specialist
+439,CAND_0027723,36.14,ML Engineer
+440,CAND_0003506,36.11,Computer Vision Engineer
+441,CAND_0053823,36.1,Junior ML Engineer
+442,CAND_0006833,36.07,AI Research Engineer
+443,CAND_0065786,36.07,AI Specialist
+444,CAND_0083637,36.07,ML Engineer
+445,CAND_0026942,36.05,Junior ML Engineer
+446,CAND_0065991,36.05,Data Scientist
+447,CAND_0047542,36.01,Senior Software Engineer (ML)
+448,CAND_0089546,36.01,Machine Learning Engineer
+449,CAND_0072547,35.96,Senior Software Engineer (ML)
+450,CAND_0088378,35.92,AI Research Engineer
+451,CAND_0080102,35.9,Junior ML Engineer
+452,CAND_0034849,35.89,AI Research Engineer
+453,CAND_0069773,35.88,AI Research Engineer
+454,CAND_0078508,35.87,AI Research Engineer
+455,CAND_0073883,35.85,AI Specialist
+456,CAND_0026424,35.84,Senior Software Engineer (ML)
+457,CAND_0040677,35.84,AI Research Engineer
+458,CAND_0079888,35.84,Junior ML Engineer
+459,CAND_0096209,35.83,ML Engineer
+460,CAND_0044091,35.76,ML Engineer
+461,CAND_0046278,35.75,Senior Software Engineer (ML)
+462,CAND_0074342,35.66,Data Scientist
+463,CAND_0012888,35.63,Junior ML Engineer
+464,CAND_0041594,35.63,Computer Vision Engineer
+465,CAND_0068892,35.53,Senior Software Engineer (ML)
+466,CAND_0041625,35.5,AI Research Engineer
+467,CAND_0077296,35.5,Computer Vision Engineer
+468,CAND_0002793,35.49,AI Specialist
+469,CAND_0020350,35.48,AI Engineer
+470,CAND_0094165,35.47,AI Research Engineer
+471,CAND_0061479,35.43,ML Engineer
+472,CAND_0024203,35.41,Junior ML Engineer
+473,CAND_0061156,35.38,Senior Software Engineer (ML)
+474,CAND_0052030,35.33,Senior Software Engineer (ML)
+475,CAND_0075491,35.33,AI Research Engineer
+476,CAND_0061257,35.28,Staff Machine Learning Engineer
+477,CAND_0065139,35.27,AI Research Engineer
+478,CAND_0087494,35.26,ML Engineer
+479,CAND_0089012,35.24,AI Specialist
+480,CAND_0061696,35.23,Senior Software Engineer (ML)
+481,CAND_0019845,35.21,AI Specialist
+482,CAND_0044565,35.17,Data Scientist
+483,CAND_0075504,35.17,Junior ML Engineer
+484,CAND_0014909,35.13,Computer Vision Engineer
+485,CAND_0022232,35.12,Senior Software Engineer (ML)
+486,CAND_0008618,35.09,Computer Vision Engineer
+487,CAND_0096409,35.09,Computer Vision Engineer
+488,CAND_0057134,35.08,Data Scientist
+489,CAND_0072688,35.05,Data Scientist
+490,CAND_0048265,35.02,AI Research Engineer
+491,CAND_0055960,35.01,AI Specialist
+492,CAND_0015478,34.96,ML Engineer
+493,CAND_0063328,34.94,Computer Vision Engineer
+494,CAND_0021973,34.93,ML Engineer
+495,CAND_0030780,34.89,AI Specialist
+496,CAND_0082262,34.87,Senior Software Engineer (ML)
+497,CAND_0049340,34.86,Junior ML Engineer
+498,CAND_0065517,34.86,AI Research Engineer
+499,CAND_0001131,34.81,ML Engineer
+500,CAND_0026362,34.81,Data Scientist
+501,CAND_0047492,34.79,ML Engineer
+502,CAND_0090584,34.76,ML Engineer
+503,CAND_0029449,34.75,ML Engineer
+504,CAND_0035653,34.75,Data Scientist
+505,CAND_0047907,34.75,AI Research Engineer
+506,CAND_0054829,34.74,Computer Vision Engineer
+507,CAND_0036604,34.69,ML Engineer
+508,CAND_0095184,34.68,AI Research Engineer
+509,CAND_0094685,34.66,AI Research Engineer
+510,CAND_0015493,34.65,Data Scientist
+511,CAND_0042359,34.61,Data Scientist
+512,CAND_0091254,34.6,AI Research Engineer
+513,CAND_0082086,34.59,Senior Software Engineer (ML)
+514,CAND_0036416,34.57,ML Engineer
+515,CAND_0071722,34.52,ML Engineer
+516,CAND_0001126,34.51,Junior ML Engineer
+517,CAND_0094482,34.5,Junior ML Engineer
+518,CAND_0054703,34.49,Computer Vision Engineer
+519,CAND_0034177,34.48,Senior Software Engineer (ML)
+520,CAND_0001707,34.45,Data Scientist
+521,CAND_0038949,34.45,ML Engineer
+522,CAND_0073917,34.44,Data Scientist
+523,CAND_0053527,34.43,Junior ML Engineer
+524,CAND_0068040,34.43,AI Specialist
+525,CAND_0088526,34.41,Senior Software Engineer (ML)
+526,CAND_0096823,34.41,Data Scientist
+527,CAND_0069995,34.4,Data Scientist
+528,CAND_0073139,34.4,ML Engineer
+529,CAND_0030207,34.37,Data Scientist
+530,CAND_0009722,34.34,Computer Vision Engineer
+531,CAND_0091899,34.29,Senior Software Engineer (ML)
+532,CAND_0059520,34.27,AI Research Engineer
+533,CAND_0097860,34.27,Junior ML Engineer
+534,CAND_0007008,34.25,Senior Software Engineer (ML)
+535,CAND_0014683,34.25,Senior Software Engineer (ML)
+536,CAND_0031143,34.25,ML Engineer
+537,CAND_0069220,34.25,ML Engineer
+538,CAND_0074098,34.25,Data Scientist
+539,CAND_0051936,34.22,AI Research Engineer
+540,CAND_0017147,34.21,AI Specialist
+541,CAND_0050297,34.2,Junior ML Engineer
+542,CAND_0077498,34.2,Senior Software Engineer (ML)
+543,CAND_0043450,34.19,AI Research Engineer
+544,CAND_0088385,34.19,Computer Vision Engineer
+545,CAND_0099581,34.19,AI Specialist
+546,CAND_0032955,34.14,Computer Vision Engineer
+547,CAND_0051593,34.14,AI Specialist
+548,CAND_0006850,34.13,Data Scientist
+549,CAND_0053422,34.13,Data Scientist
+550,CAND_0042690,34.1,Senior Software Engineer (ML)
+551,CAND_0055624,34.09,Data Scientist
+552,CAND_0074339,34.09,ML Engineer
+553,CAND_0068012,34.06,Junior ML Engineer
+554,CAND_0065633,34.05,Data Scientist
+555,CAND_0068081,34.01,Computer Vision Engineer
+556,CAND_0068596,34.01,AI Research Engineer
+557,CAND_0078262,34.0,ML Engineer
+558,CAND_0016801,33.98,ML Engineer
+559,CAND_0020049,33.97,Senior Software Engineer (ML)
+560,CAND_0033650,33.96,Junior ML Engineer
+561,CAND_0045778,33.96,Senior Software Engineer (ML)
+562,CAND_0043637,33.9,Junior ML Engineer
+563,CAND_0016657,33.88,AI Research Engineer
+564,CAND_0022274,33.88,AI Research Engineer
+565,CAND_0048375,33.88,Computer Vision Engineer
+566,CAND_0071432,33.88,Data Scientist
+567,CAND_0062561,33.85,ML Engineer
+568,CAND_0074024,33.85,AI Specialist
+569,CAND_0003575,33.81,Data Scientist
+570,CAND_0056058,33.81,Junior ML Engineer
+571,CAND_0023541,33.77,AI Specialist
+572,CAND_0094292,33.76,AI Specialist
+573,CAND_0003791,33.72,ML Engineer
+574,CAND_0042441,33.71,AI Research Engineer
+575,CAND_0012798,33.7,AI Research Engineer
+576,CAND_0073504,33.68,Junior ML Engineer
+577,CAND_0032179,33.65,Computer Vision Engineer
+578,CAND_0038328,33.64,Junior ML Engineer
+579,CAND_0052744,33.64,Senior Software Engineer (ML)
+580,CAND_0032271,33.63,AI Research Engineer
+581,CAND_0091712,33.63,Data Scientist
+582,CAND_0087264,33.6,Junior ML Engineer
+583,CAND_0045027,33.59,Senior Software Engineer (ML)
+584,CAND_0019288,33.58,AI Research Engineer
+585,CAND_0080051,33.58,Data Scientist
+586,CAND_0095042,33.57,Senior Software Engineer (ML)
+587,CAND_0008978,33.56,Junior ML Engineer
+588,CAND_0010283,33.56,AI Specialist
+589,CAND_0005191,33.55,AI Specialist
+590,CAND_0006354,33.52,Data Scientist
+591,CAND_0046020,33.51,ML Engineer
+592,CAND_0038368,33.48,ML Engineer
+593,CAND_0048534,33.47,Computer Vision Engineer
+594,CAND_0050707,33.45,AI Specialist
+595,CAND_0058882,33.45,Computer Vision Engineer
+596,CAND_0053605,33.44,Senior Software Engineer (ML)
+597,CAND_0057736,33.44,Computer Vision Engineer
+598,CAND_0040386,33.42,Data Scientist
+599,CAND_0018013,33.41,AI Specialist
+600,CAND_0061177,33.41,ML Engineer
+601,CAND_0005509,33.39,Data Scientist
+602,CAND_0062772,33.38,Senior Software Engineer (ML)
+603,CAND_0074731,33.36,Data Scientist
+604,CAND_0003557,33.34,ML Engineer
+605,CAND_0064664,33.34,ML Engineer
+606,CAND_0020845,33.32,AI Research Engineer
+607,CAND_0066791,33.31,Senior Software Engineer (ML)
+608,CAND_0008456,33.29,Data Scientist
+609,CAND_0026993,33.27,ML Engineer
+610,CAND_0043312,33.27,AI Research Engineer
+611,CAND_0070206,33.26,Senior Software Engineer (ML)
+612,CAND_0038821,33.24,AI Specialist
+613,CAND_0061244,33.24,Computer Vision Engineer
+614,CAND_0017178,33.23,ML Engineer
+615,CAND_0022127,33.18,Computer Vision Engineer
+616,CAND_0068985,33.16,Senior Software Engineer (ML)
+617,CAND_0084283,33.15,Junior ML Engineer
+618,CAND_0051003,33.14,Senior Software Engineer (ML)
+619,CAND_0064256,33.14,Junior ML Engineer
+620,CAND_0081778,33.14,Data Scientist
+621,CAND_0041918,33.13,AI Specialist
+622,CAND_0011489,33.12,ML Engineer
+623,CAND_0025971,33.11,Junior ML Engineer
+624,CAND_0098780,33.11,AI Research Engineer
+625,CAND_0058426,33.09,Data Scientist
+626,CAND_0072803,33.09,AI Research Engineer
+627,CAND_0013153,33.07,Computer Vision Engineer
+628,CAND_0013002,33.05,Senior Software Engineer (ML)
+629,CAND_0025504,33.02,Junior ML Engineer
+630,CAND_0087006,33.02,Senior Software Engineer (ML)
+631,CAND_0073556,33.01,AI Research Engineer
+632,CAND_0089249,33.01,Senior Software Engineer (ML)
+633,CAND_0024170,32.99,Junior ML Engineer
+634,CAND_0022023,32.98,AI Research Engineer
+635,CAND_0034400,32.96,ML Engineer
+636,CAND_0060538,32.9,ML Engineer
+637,CAND_0094400,32.87,Computer Vision Engineer
+638,CAND_0021706,32.86,AI Specialist
+639,CAND_0029439,32.85,AI Specialist
+640,CAND_0061819,32.85,Junior ML Engineer
+641,CAND_0043125,32.83,Senior Software Engineer (ML)
+642,CAND_0082618,32.78,Data Scientist
+643,CAND_0062658,32.77,Junior ML Engineer
+644,CAND_0000422,32.76,AI Research Engineer
+645,CAND_0049217,32.75,Computer Vision Engineer
+646,CAND_0028287,32.74,Data Scientist
+647,CAND_0095868,32.74,Junior ML Engineer
+648,CAND_0000165,32.73,AI Specialist
+649,CAND_0065430,32.7,ML Engineer
+650,CAND_0047385,32.67,ML Engineer
+651,CAND_0075715,32.66,Data Scientist
+652,CAND_0089726,32.65,Junior ML Engineer
+653,CAND_0000666,32.61,Data Scientist
+654,CAND_0034148,32.6,ML Engineer
+655,CAND_0052431,32.6,ML Engineer
+656,CAND_0076482,32.6,ML Engineer
+657,CAND_0078785,32.56,AI Research Engineer
+658,CAND_0089498,32.55,AI Specialist
+659,CAND_0026610,32.54,Computer Vision Engineer
+660,CAND_0084760,32.54,Computer Vision Engineer
+661,CAND_0078669,32.49,ML Engineer
+662,CAND_0066075,32.47,Senior Software Engineer (ML)
+663,CAND_0072489,32.47,Computer Vision Engineer
+664,CAND_0006870,32.44,ML Engineer
+665,CAND_0018961,32.44,AI Specialist
+666,CAND_0024947,32.42,AI Research Engineer
+667,CAND_0092181,32.42,Data Scientist
+668,CAND_0087702,32.4,AI Research Engineer
+669,CAND_0028318,32.39,Data Scientist
+670,CAND_0025939,32.38,Data Scientist
+671,CAND_0076035,32.35,AI Specialist
+672,CAND_0089947,32.35,Junior ML Engineer
+673,CAND_0004131,32.3,Junior ML Engineer
+674,CAND_0023076,32.3,AI Research Engineer
+675,CAND_0057166,32.29,ML Engineer
+676,CAND_0042056,32.28,AI Research Engineer
+677,CAND_0057742,32.28,Junior ML Engineer
+678,CAND_0011707,32.24,Data Scientist
+679,CAND_0003756,32.23,Senior Software Engineer (ML)
+680,CAND_0088438,32.19,Senior Software Engineer (ML)
+681,CAND_0036291,32.18,Computer Vision Engineer
+682,CAND_0097256,32.16,Senior Software Engineer (ML)
+683,CAND_0055842,32.14,Junior ML Engineer
+684,CAND_0038656,32.13,ML Engineer
+685,CAND_0018094,32.1,ML Engineer
+686,CAND_0052027,32.06,AI Research Engineer
+687,CAND_0006581,32.05,AI Specialist
+688,CAND_0011923,32.05,AI Research Engineer
+689,CAND_0026640,32.05,Computer Vision Engineer
+690,CAND_0075481,32.05,AI Research Engineer
+691,CAND_0084161,32.05,Senior Software Engineer (ML)
+692,CAND_0027218,32.02,AI Research Engineer
+693,CAND_0065927,32.01,Senior Software Engineer (ML)
+694,CAND_0080291,32.01,Junior ML Engineer
+695,CAND_0006821,31.97,Senior Software Engineer (ML)
+696,CAND_0000200,31.94,ML Engineer
+697,CAND_0058517,31.89,Computer Vision Engineer
+698,CAND_0011140,31.88,ML Engineer
+699,CAND_0026716,31.88,Computer Vision Engineer
+700,CAND_0007874,31.87,Junior ML Engineer
+701,CAND_0092596,31.87,AI Specialist
+702,CAND_0070225,31.86,ML Engineer
+703,CAND_0076412,31.84,AI Research Engineer
+704,CAND_0007567,31.81,AI Specialist
+705,CAND_0074621,31.78,Data Scientist
+706,CAND_0089495,31.78,Senior Software Engineer (ML)
+707,CAND_0012632,31.77,AI Specialist
+708,CAND_0068777,31.77,AI Research Engineer
+709,CAND_0091229,31.77,Senior Software Engineer (ML)
+710,CAND_0002610,31.76,Senior Software Engineer (ML)
+711,CAND_0019880,31.72,AI Specialist
+712,CAND_0031306,31.71,Junior ML Engineer
+713,CAND_0080315,31.7,AI Research Engineer
+714,CAND_0075981,31.69,Junior ML Engineer
+715,CAND_0081086,31.68,AI Specialist
+716,CAND_0049163,31.67,ML Engineer
+717,CAND_0093401,31.67,AI Specialist
+718,CAND_0008049,31.64,ML Engineer
+719,CAND_0008218,31.63,Senior Software Engineer (ML)
+720,CAND_0052082,31.63,Computer Vision Engineer
+721,CAND_0015057,31.61,ML Engineer
+722,CAND_0088237,31.61,Computer Vision Engineer
+723,CAND_0095031,31.59,Computer Vision Engineer
+724,CAND_0079386,31.57,Data Scientist
+725,CAND_0082910,31.57,AI Specialist
+726,CAND_0085851,31.54,ML Engineer
+727,CAND_0089889,31.51,Data Scientist
+728,CAND_0071544,31.47,Computer Vision Engineer
+729,CAND_0023093,31.46,ML Engineer
+730,CAND_0034767,31.42,ML Engineer
+731,CAND_0052195,31.4,Computer Vision Engineer
+732,CAND_0080589,31.4,Computer Vision Engineer
+733,CAND_0048558,31.38,Data Scientist
+734,CAND_0054271,31.37,Senior Software Engineer (ML)
+735,CAND_0073781,31.36,ML Engineer
+736,CAND_0086460,31.35,ML Engineer
+737,CAND_0000705,31.34,AI Research Engineer
+738,CAND_0007391,31.32,Data Scientist
+739,CAND_0022614,31.32,Data Scientist
+740,CAND_0071913,31.3,Data Scientist
+741,CAND_0018701,31.29,Junior ML Engineer
+742,CAND_0015582,31.26,ML Engineer
+743,CAND_0040946,31.26,AI Research Engineer
+744,CAND_0074486,31.24,Computer Vision Engineer
+745,CAND_0073633,31.23,ML Engineer
+746,CAND_0022870,31.21,AI Specialist
+747,CAND_0060715,31.18,ML Engineer
+748,CAND_0089381,31.17,Computer Vision Engineer
+749,CAND_0099965,31.17,Junior ML Engineer
+750,CAND_0006209,31.13,AI Specialist
+751,CAND_0088049,31.12,Junior ML Engineer
+752,CAND_0059557,31.11,Computer Vision Engineer
+753,CAND_0077881,31.11,Junior ML Engineer
+754,CAND_0043936,31.08,AI Research Engineer
+755,CAND_0081932,31.08,Data Scientist
+756,CAND_0044696,31.07,Computer Vision Engineer
+757,CAND_0034164,31.06,Data Scientist
+758,CAND_0019447,31.05,AI Research Engineer
+759,CAND_0024630,31.05,AI Research Engineer
+760,CAND_0025109,31.05,Data Scientist
+761,CAND_0008918,31.03,AI Specialist
+762,CAND_0029671,30.99,Data Scientist
+763,CAND_0023458,30.98,AI Research Engineer
+764,CAND_0093540,30.98,ML Engineer
+765,CAND_0092989,30.97,Data Scientist
+766,CAND_0073832,30.95,Junior ML Engineer
+767,CAND_0031842,30.92,AI Specialist
+768,CAND_0004534,30.9,Senior Software Engineer (ML)
+769,CAND_0062413,30.88,AI Research Engineer
+770,CAND_0001608,30.85,Senior Software Engineer (ML)
+771,CAND_0040955,30.85,Junior ML Engineer
+772,CAND_0053472,30.85,Senior Software Engineer (ML)
+773,CAND_0021442,30.84,AI Specialist
+774,CAND_0066713,30.82,Senior Software Engineer (ML)
+775,CAND_0025046,30.79,AI Specialist
+776,CAND_0046313,30.76,Senior Software Engineer (ML)
+777,CAND_0015078,30.74,Junior ML Engineer
+778,CAND_0041083,30.73,Computer Vision Engineer
+779,CAND_0025293,30.72,Data Scientist
+780,CAND_0077784,30.72,Data Scientist
+781,CAND_0041614,30.69,AI Specialist
+782,CAND_0008533,30.68,Data Scientist
+783,CAND_0030643,30.68,Computer Vision Engineer
+784,CAND_0056881,30.68,Machine Learning Engineer
+785,CAND_0057162,30.67,ML Engineer
+786,CAND_0074648,30.64,AI Research Engineer
+787,CAND_0015132,30.63,AI Specialist
+788,CAND_0029135,30.63,AI Specialist
+789,CAND_0036391,30.62,Computer Vision Engineer
+790,CAND_0020344,30.6,Computer Vision Engineer
+791,CAND_0022463,30.58,Junior ML Engineer
+792,CAND_0065450,30.58,ML Engineer
+793,CAND_0017090,30.54,Senior Software Engineer (ML)
+794,CAND_0062009,30.54,Junior ML Engineer
+795,CAND_0071747,30.53,AI Research Engineer
+796,CAND_0096131,30.53,AI Specialist
+797,CAND_0061590,30.52,Data Scientist
+798,CAND_0025335,30.51,Data Scientist
+799,CAND_0099675,30.51,Junior ML Engineer
+800,CAND_0011208,30.5,Data Scientist
+801,CAND_0067609,30.45,Junior ML Engineer
+802,CAND_0040426,30.4,Data Scientist
+803,CAND_0063097,30.36,Senior Software Engineer (ML)
+804,CAND_0016432,30.32,AI Research Engineer
+805,CAND_0019159,30.32,ML Engineer
+806,CAND_0062707,30.27,Senior Software Engineer (ML)
+807,CAND_0089406,30.27,Data Scientist
+808,CAND_0002770,30.26,AI Research Engineer
+809,CAND_0072410,30.25,ML Engineer
+810,CAND_0007631,30.24,AI Specialist
+811,CAND_0083790,30.23,Data Scientist
+812,CAND_0015543,30.22,ML Engineer
+813,CAND_0069503,30.22,Computer Vision Engineer
+814,CAND_0014188,30.2,Junior ML Engineer
+815,CAND_0086790,30.19,ML Engineer
+816,CAND_0004628,30.12,AI Research Engineer
+817,CAND_0087783,30.12,Senior Software Engineer (ML)
+818,CAND_0003290,30.1,Computer Vision Engineer
+819,CAND_0096655,30.07,Junior ML Engineer
+820,CAND_0022940,30.06,Senior Software Engineer (ML)
+821,CAND_0031703,30.05,ML Engineer
+822,CAND_0046459,30.05,AI Research Engineer
+823,CAND_0068513,30.01,Computer Vision Engineer
+824,CAND_0070930,29.99,Data Scientist
+825,CAND_0027663,29.94,AI Specialist
+826,CAND_0086657,29.91,Junior ML Engineer
+827,CAND_0005704,29.88,ML Engineer
+828,CAND_0098288,29.88,Junior ML Engineer
+829,CAND_0099549,29.88,Junior ML Engineer
+830,CAND_0030946,29.87,Junior ML Engineer
+831,CAND_0060622,29.87,Computer Vision Engineer
+832,CAND_0092714,29.87,Senior Software Engineer (ML)
+833,CAND_0012840,29.85,Junior ML Engineer
+834,CAND_0079550,29.84,AI Specialist
+835,CAND_0086154,29.84,Data Scientist
+836,CAND_0025923,29.82,Senior Software Engineer (ML)
+837,CAND_0087120,29.82,Senior Software Engineer (ML)
+838,CAND_0078790,29.81,Data Scientist
+839,CAND_0042425,29.8,AI Specialist
+840,CAND_0062462,29.8,Computer Vision Engineer
+841,CAND_0023559,29.76,Data Scientist
+842,CAND_0046793,29.74,ML Engineer
+843,CAND_0011757,29.68,Junior ML Engineer
+844,CAND_0026855,29.67,Junior ML Engineer
+845,CAND_0066884,29.66,AI Specialist
+846,CAND_0088602,29.66,AI Specialist
+847,CAND_0018246,29.64,ML Engineer
+848,CAND_0074317,29.63,AI Research Engineer
+849,CAND_0010408,29.58,Junior ML Engineer
+850,CAND_0011220,29.58,Junior ML Engineer
+851,CAND_0033839,29.58,AI Specialist
+852,CAND_0054795,29.57,Senior Software Engineer (ML)
+853,CAND_0067091,29.53,Senior Software Engineer (ML)
+854,CAND_0039269,29.52,Junior ML Engineer
+855,CAND_0067535,29.51,Junior ML Engineer
+856,CAND_0080465,29.51,ML Engineer
+857,CAND_0066777,29.5,Junior ML Engineer
+858,CAND_0077504,29.48,Data Scientist
+859,CAND_0046095,29.47,ML Engineer
+860,CAND_0030550,29.46,AI Research Engineer
+861,CAND_0096801,29.46,AI Research Engineer
+862,CAND_0033649,29.44,Data Scientist
+863,CAND_0090093,29.43,Data Scientist
+864,CAND_0001600,29.4,AI Specialist
+865,CAND_0059240,29.39,Junior ML Engineer
+866,CAND_0016268,29.36,Computer Vision Engineer
+867,CAND_0056584,29.35,AI Specialist
+868,CAND_0087841,29.35,Senior Software Engineer (ML)
+869,CAND_0054173,29.33,Computer Vision Engineer
+870,CAND_0058791,29.33,AI Research Engineer
+871,CAND_0082973,29.3,AI Specialist
+872,CAND_0005269,29.27,Senior Software Engineer (ML)
+873,CAND_0014234,29.27,Junior ML Engineer
+874,CAND_0033352,29.27,Computer Vision Engineer
+875,CAND_0073204,29.27,Senior Software Engineer (ML)
+876,CAND_0001651,29.26,Data Scientist
+877,CAND_0010655,29.22,ML Engineer
+878,CAND_0008297,29.21,Computer Vision Engineer
+879,CAND_0067717,29.21,AI Specialist
+880,CAND_0011065,29.17,Computer Vision Engineer
+881,CAND_0075175,29.17,AI Research Engineer
+882,CAND_0072784,29.14,AI Specialist
+883,CAND_0065501,29.13,Computer Vision Engineer
+884,CAND_0032216,29.1,ML Engineer
+885,CAND_0085199,29.07,AI Research Engineer
+886,CAND_0095213,29.06,ML Engineer
+887,CAND_0013456,28.98,Data Scientist
+888,CAND_0050765,28.96,AI Specialist
+889,CAND_0015097,28.95,Senior Software Engineer (ML)
+890,CAND_0065052,28.95,AI Specialist
+891,CAND_0017590,28.92,AI Research Engineer
+892,CAND_0014296,28.91,ML Engineer
+893,CAND_0044428,28.91,Data Scientist
+894,CAND_0078810,28.88,Senior Software Engineer (ML)
+895,CAND_0070514,28.85,AI Specialist
+896,CAND_0010149,28.84,ML Engineer
+897,CAND_0012805,28.84,Data Scientist
+898,CAND_0063155,28.77,AI Specialist
+899,CAND_0043904,28.76,Data Scientist
+900,CAND_0044829,28.72,AI Specialist
+901,CAND_0050860,28.71,Junior ML Engineer
+902,CAND_0094445,28.69,AI Specialist
+903,CAND_0072032,28.66,AI Specialist
+904,CAND_0078856,28.66,AI Specialist
+905,CAND_0060814,28.65,Data Scientist
+906,CAND_0070653,28.64,AI Specialist
+907,CAND_0057529,28.63,Junior ML Engineer
+908,CAND_0081563,28.63,ML Engineer
+909,CAND_0033303,28.62,AI Specialist
+910,CAND_0074765,28.62,Data Scientist
+911,CAND_0019210,28.57,ML Engineer
+912,CAND_0033350,28.56,Data Scientist
+913,CAND_0052257,28.54,Computer Vision Engineer
+914,CAND_0091348,28.52,Senior Software Engineer (ML)
+915,CAND_0034270,28.5,Data Scientist
+916,CAND_0043384,28.45,Computer Vision Engineer
+917,CAND_0051466,28.44,AI Research Engineer
+918,CAND_0001940,28.43,AI Research Engineer
+919,CAND_0092692,28.43,AI Specialist
+920,CAND_0007916,28.42,Computer Vision Engineer
+921,CAND_0096589,28.42,Computer Vision Engineer
+922,CAND_0028108,28.4,Junior ML Engineer
+923,CAND_0010791,28.39,Senior Software Engineer (ML)
+924,CAND_0070463,28.36,Data Scientist
+925,CAND_0074326,28.33,Junior ML Engineer
+926,CAND_0095884,28.29,Senior Software Engineer (ML)
+927,CAND_0029272,28.28,Computer Vision Engineer
+928,CAND_0060886,28.28,Senior Software Engineer (ML)
+929,CAND_0087529,28.24,AI Specialist
+930,CAND_0032887,28.23,ML Engineer
+931,CAND_0063736,28.22,Data Scientist
+932,CAND_0072721,28.22,Data Scientist
+933,CAND_0075502,28.2,Senior Software Engineer (ML)
+934,CAND_0089444,28.18,AI Specialist
+935,CAND_0065396,28.13,AI Specialist
+936,CAND_0089197,28.1,AI Specialist
+937,CAND_0065805,28.01,Data Scientist
+938,CAND_0073418,28.01,Computer Vision Engineer
+939,CAND_0019200,27.99,AI Research Engineer
+940,CAND_0076107,27.99,ML Engineer
+941,CAND_0072195,27.98,Junior ML Engineer
+942,CAND_0049540,27.97,ML Engineer
+943,CAND_0034645,27.96,Senior Software Engineer (ML)
+944,CAND_0052579,27.91,Computer Vision Engineer
+945,CAND_0054319,27.91,Junior ML Engineer
+946,CAND_0009981,27.9,AI Specialist
+947,CAND_0052400,27.88,Computer Vision Engineer
+948,CAND_0099347,27.84,Computer Vision Engineer
+949,CAND_0045887,27.83,Data Scientist
+950,CAND_0094529,27.82,Computer Vision Engineer
+951,CAND_0071821,27.81,Computer Vision Engineer
+952,CAND_0056617,27.72,Junior ML Engineer
+953,CAND_0031397,27.71,Junior ML Engineer
+954,CAND_0093958,27.7,Junior ML Engineer
+955,CAND_0065514,27.68,ML Engineer
+956,CAND_0013111,27.67,AI Research Engineer
+957,CAND_0025663,27.67,Computer Vision Engineer
+958,CAND_0020726,27.65,AI Specialist
+959,CAND_0089829,27.65,Senior Software Engineer (ML)
+960,CAND_0041016,27.64,Junior ML Engineer
+961,CAND_0095060,27.64,AI Specialist
+962,CAND_0022415,27.63,AI Research Engineer
+963,CAND_0079688,27.63,Senior Software Engineer (ML)
+964,CAND_0000112,27.6,AI Specialist
+965,CAND_0021486,27.59,Computer Vision Engineer
+966,CAND_0078579,27.58,Data Scientist
+967,CAND_0077003,27.54,Data Scientist
+968,CAND_0071115,27.52,Recommendation Systems Engineer
+969,CAND_0069582,27.5,Computer Vision Engineer
+970,CAND_0029220,27.49,AI Specialist
+971,CAND_0073314,27.48,Senior Software Engineer (ML)
+972,CAND_0028838,27.45,Data Scientist
+973,CAND_0063622,27.45,Computer Vision Engineer
+974,CAND_0054859,27.42,Senior Software Engineer (ML)
+975,CAND_0062184,27.39,Computer Vision Engineer
+976,CAND_0073385,27.35,Computer Vision Engineer
+977,CAND_0051545,27.27,AI Research Engineer
+978,CAND_0026549,27.26,AI Specialist
+979,CAND_0052169,27.23,ML Engineer
+980,CAND_0059440,27.22,AI Research Engineer
+981,CAND_0097079,27.21,Computer Vision Engineer
+982,CAND_0086292,27.2,AI Specialist
+983,CAND_0092568,27.2,AI Specialist
+984,CAND_0084498,27.14,Junior ML Engineer
+985,CAND_0087804,27.1,AI Specialist
+986,CAND_0093474,27.09,Senior Software Engineer (ML)
+987,CAND_0030193,27.04,Computer Vision Engineer
+988,CAND_0017093,27.02,ML Engineer
+989,CAND_0002270,26.97,Computer Vision Engineer
+990,CAND_0018454,26.96,Data Scientist
+991,CAND_0094023,26.93,Data Scientist
+992,CAND_0014743,26.84,AI Research Engineer
+993,CAND_0051310,26.83,Computer Vision Engineer
+994,CAND_0054059,26.71,AI Specialist
+995,CAND_0068393,26.68,Junior ML Engineer
+996,CAND_0084460,26.68,Senior Software Engineer (ML)
+997,CAND_0045475,26.67,ML Engineer
+998,CAND_0058783,26.65,Computer Vision Engineer
+999,CAND_0022026,26.64,Computer Vision Engineer
+1000,CAND_0003100,26.62,AI Specialist
+1001,CAND_0041233,26.56,Data Scientist
+1002,CAND_0057369,26.54,Computer Vision Engineer
+1003,CAND_0004848,26.52,Junior ML Engineer
+1004,CAND_0006437,26.49,Senior Software Engineer (ML)
+1005,CAND_0080597,26.49,AI Specialist
+1006,CAND_0028647,26.48,AI Specialist
+1007,CAND_0044487,26.48,Data Scientist
+1008,CAND_0064888,26.47,ML Engineer
+1009,CAND_0022413,26.45,Data Scientist
+1010,CAND_0039983,26.45,Computer Vision Engineer
+1011,CAND_0044463,26.42,ML Engineer
+1012,CAND_0085267,26.39,Data Scientist
+1013,CAND_0048660,26.38,ML Engineer
+1014,CAND_0068456,26.37,Data Scientist
+1015,CAND_0040310,26.35,AI Research Engineer
+1016,CAND_0044213,26.29,AI Specialist
+1017,CAND_0098217,26.25,ML Engineer
+1018,CAND_0037417,26.23,Data Scientist
+1019,CAND_0041696,26.21,Senior Software Engineer (ML)
+1020,CAND_0060472,26.21,Computer Vision Engineer
+1021,CAND_0056704,26.2,Data Scientist
+1022,CAND_0084090,26.18,Junior ML Engineer
+1023,CAND_0000969,26.14,AI Specialist
+1024,CAND_0055004,26.14,Computer Vision Engineer
+1025,CAND_0066690,26.1,ML Engineer
+1026,CAND_0044576,26.02,Senior Software Engineer (ML)
+1027,CAND_0055362,26.01,Senior Software Engineer (ML)
+1028,CAND_0088441,26.01,AI Specialist
+1029,CAND_0093763,25.98,Senior Software Engineer (ML)
+1030,CAND_0047682,25.95,Computer Vision Engineer
+1031,CAND_0050216,25.9,Computer Vision Engineer
+1032,CAND_0062115,25.86,ML Engineer
+1033,CAND_0020820,25.85,Computer Vision Engineer
+1034,CAND_0080189,25.84,Junior ML Engineer
+1035,CAND_0046621,25.78,AI Research Engineer
+1036,CAND_0082760,25.73,ML Engineer
+1037,CAND_0002706,25.71,Junior ML Engineer
+1038,CAND_0004112,25.69,Senior Software Engineer (ML)
+1039,CAND_0090419,25.68,AI Specialist
+1040,CAND_0097037,25.67,AI Research Engineer
+1041,CAND_0064458,25.64,AI Specialist
+1042,CAND_0050553,25.59,ML Engineer
+1043,CAND_0098624,25.59,Senior Software Engineer (ML)
+1044,CAND_0092468,25.57,Senior Software Engineer (ML)
+1045,CAND_0049543,25.56,ML Engineer
+1046,CAND_0032270,25.55,Data Scientist
+1047,CAND_0072834,25.55,Senior Software Engineer (ML)
+1048,CAND_0033445,25.52,ML Engineer
+1049,CAND_0047327,25.52,Junior ML Engineer
+1050,CAND_0050146,25.48,AI Research Engineer
+1051,CAND_0094916,25.48,Junior ML Engineer
+1052,CAND_0030155,25.44,Data Scientist
+1053,CAND_0051692,25.44,Senior Software Engineer (ML)
+1054,CAND_0008943,25.41,Computer Vision Engineer
+1055,CAND_0069232,25.41,ML Engineer
+1056,CAND_0005477,25.32,ML Engineer
+1057,CAND_0015760,25.3,AI Research Engineer
+1058,CAND_0036173,25.25,Senior Software Engineer (ML)
+1059,CAND_0035779,25.21,ML Engineer
+1060,CAND_0048690,25.18,Data Scientist
+1061,CAND_0007861,25.1,Senior Software Engineer (ML)
+1062,CAND_0063862,25.07,ML Engineer
+1063,CAND_0069718,25.07,ML Engineer
+1064,CAND_0040506,25.04,AI Research Engineer
+1065,CAND_0042564,25.04,AI Specialist
+1066,CAND_0076956,25.02,Senior Software Engineer (ML)
+1067,CAND_0029714,25.0,AI Specialist
+1068,CAND_0055995,25.0,ML Engineer
+1069,CAND_0048219,24.95,Computer Vision Engineer
+1070,CAND_0014237,24.9,Data Scientist
+1071,CAND_0017722,24.89,Data Scientist
+1072,CAND_0068273,24.89,Data Scientist
+1073,CAND_0029971,24.88,Junior ML Engineer
+1074,CAND_0042008,24.88,ML Engineer
+1075,CAND_0040102,24.76,Senior Software Engineer (ML)
+1076,CAND_0007088,24.75,ML Engineer
+1077,CAND_0052827,24.73,Data Scientist
+1078,CAND_0090542,24.72,Data Scientist
+1079,CAND_0029117,24.66,Senior Software Engineer (ML)
+1080,CAND_0030967,24.66,Senior Software Engineer (ML)
+1081,CAND_0084963,24.65,Data Scientist
+1082,CAND_0005421,24.63,Junior ML Engineer
+1083,CAND_0082291,24.62,Senior Software Engineer (ML)
+1084,CAND_0056910,24.6,Junior ML Engineer
+1085,CAND_0051759,24.59,AI Specialist
+1086,CAND_0048862,24.58,Senior Software Engineer (ML)
+1087,CAND_0043641,24.56,AI Specialist
+1088,CAND_0031578,24.54,Data Scientist
+1089,CAND_0072263,24.49,Senior Software Engineer (ML)
+1090,CAND_0099443,24.46,Junior ML Engineer
+1091,CAND_0069953,24.43,Computer Vision Engineer
+1092,CAND_0072768,24.42,Senior Software Engineer (ML)
+1093,CAND_0069540,24.41,ML Engineer
+1094,CAND_0032996,24.36,Junior ML Engineer
+1095,CAND_0061550,24.36,ML Engineer
+1096,CAND_0060468,24.3,Computer Vision Engineer
+1097,CAND_0059400,24.29,Data Scientist
+1098,CAND_0015581,24.26,Senior Software Engineer (ML)
+1099,CAND_0044248,24.26,Junior ML Engineer
+1100,CAND_0074303,24.24,Senior Software Engineer (ML)
+1101,CAND_0073450,24.16,AI Research Engineer
+1102,CAND_0017164,24.15,Junior ML Engineer
+1103,CAND_0013314,24.11,Computer Vision Engineer
+1104,CAND_0013358,24.1,Junior ML Engineer
+1105,CAND_0058381,23.99,Junior ML Engineer
+1106,CAND_0002526,23.94,Data Scientist
+1107,CAND_0071131,23.86,AI Specialist
+1108,CAND_0071880,23.75,Senior Software Engineer (ML)
+1109,CAND_0021014,23.71,Junior ML Engineer
+1110,CAND_0033405,23.71,ML Engineer
+1111,CAND_0039962,23.69,ML Engineer
+1112,CAND_0067183,23.68,ML Engineer
+1113,CAND_0031982,23.65,Computer Vision Engineer
+1114,CAND_0060699,23.61,ML Engineer
+1115,CAND_0043430,23.6,Computer Vision Engineer
+1116,CAND_0093530,23.54,Senior Software Engineer (ML)
+1117,CAND_0068964,23.53,ML Engineer
+1118,CAND_0071087,23.42,Senior Software Engineer (ML)
+1119,CAND_0095457,23.36,Data Scientist
+1120,CAND_0072203,23.35,Data Scientist
+1121,CAND_0094358,23.34,ML Engineer
+1122,CAND_0073982,23.24,Data Scientist
+1123,CAND_0065561,23.2,Senior Software Engineer (ML)
+1124,CAND_0034529,23.19,Computer Vision Engineer
+1125,CAND_0071255,23.15,Computer Vision Engineer
+1126,CAND_0021836,23.0,ML Engineer
+1127,CAND_0044135,22.85,Computer Vision Engineer
+1128,CAND_0012399,22.84,Computer Vision Engineer
+1129,CAND_0021490,22.72,Computer Vision Engineer
+1130,CAND_0003599,22.65,Computer Vision Engineer
+1131,CAND_0008092,22.61,Computer Vision Engineer
+1132,CAND_0011263,22.6,ML Engineer
+1133,CAND_0094025,22.49,Data Scientist
+1134,CAND_0039498,22.47,AI Specialist
+1135,CAND_0052735,22.46,Data Scientist
+1136,CAND_0091039,22.42,AI Specialist
+1137,CAND_0072670,22.38,ML Engineer
+1138,CAND_0086801,22.38,Computer Vision Engineer
+1139,CAND_0067605,22.32,Senior Software Engineer (ML)
+1140,CAND_0029188,22.27,AI Specialist
+1141,CAND_0061795,22.25,Data Scientist
+1142,CAND_0071939,22.22,Data Scientist
+1143,CAND_0001808,22.21,ML Engineer
+1144,CAND_0040099,22.19,ML Engineer
+1145,CAND_0053076,22.14,ML Engineer
+1146,CAND_0029611,22.09,Computer Vision Engineer
+1147,CAND_0058504,21.98,Computer Vision Engineer
+1148,CAND_0067111,21.97,ML Engineer
+1149,CAND_0077343,21.94,Computer Vision Engineer
+1150,CAND_0033842,21.9,Senior Software Engineer (ML)
+1151,CAND_0087778,21.89,Data Scientist
+1152,CAND_0018293,21.86,Data Scientist
+1153,CAND_0072218,21.85,Senior Software Engineer (ML)
+1154,CAND_0078429,21.62,Data Scientist
+1155,CAND_0034876,21.6,Computer Vision Engineer
+1156,CAND_0051276,21.57,ML Engineer
+1157,CAND_0079662,21.5,Computer Vision Engineer
+1158,CAND_0053596,21.32,Data Scientist
+1159,CAND_0098226,21.31,Computer Vision Engineer
+1160,CAND_0049040,21.08,AI Specialist
+1161,CAND_0049688,20.99,AI Specialist
+1162,CAND_0069925,20.77,Junior ML Engineer
+1163,CAND_0055850,20.76,Data Scientist
+1164,CAND_0033311,20.55,AI Specialist
+1165,CAND_0005685,20.51,Computer Vision Engineer
+1166,CAND_0029719,20.45,Computer Vision Engineer
+1167,CAND_0011135,20.36,Data Scientist
+1168,CAND_0068410,20.25,Senior Software Engineer (ML)
+1169,CAND_0089211,20.25,AI Specialist
+1170,CAND_0084888,20.04,ML Engineer
+1171,CAND_0099825,20.0,Junior ML Engineer
+1172,CAND_0008139,19.95,Data Scientist
+1173,CAND_0052679,19.55,Senior Software Engineer (ML)
+1174,CAND_0011326,19.54,Data Scientist
+1175,CAND_0081231,19.52,Senior Software Engineer (ML)
+1176,CAND_0018613,19.43,Senior Software Engineer (ML)
+1177,CAND_0070242,18.87,Senior Software Engineer (ML)
+1178,CAND_0001389,17.65,Senior Software Engineer (ML)
+1179,CAND_0031068,17.32,AI Specialist
