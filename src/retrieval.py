@@ -17,19 +17,20 @@ TARGET_KEYWORDS = [
     "production ml"
 ]
 
-
 def retrieve_candidate(candidate):
 
     text = ""
 
     text += candidate["profile"].get(
-        "headline", ""
+        "headline",
+        ""
     ).lower()
 
     text += " "
 
     text += candidate["profile"].get(
-        "summary", ""
+        "summary",
+        ""
     ).lower()
 
     for role in candidate["career_history"]:
@@ -37,7 +38,8 @@ def retrieve_candidate(candidate):
         text += " "
 
         text += role.get(
-            "description", ""
+            "description",
+            ""
         ).lower()
 
     for keyword in TARGET_KEYWORDS:
