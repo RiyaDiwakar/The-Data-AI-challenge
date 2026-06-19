@@ -1,194 +1,224 @@
-# Candidate Ranker - The Data & AI Challenge
+# Candidate Ranker – The Data & AI Challenge
 
-## Overview
+## AI-Powered Candidate Ranking System
 
-This project was built for **The Data & AI Challenge**.
+An intelligent candidate ranking system designed to identify the most relevant candidates for a job description using semantic understanding, recruiter signals, and hybrid scoring.
 
-The goal is to rank candidates for a given job description by understanding semantic relevance, career history, skills, experience, and behavioral signals rather than relying solely on keyword matching.
-
-The system combines:
-
-* Candidate Retrieval
-* Semantic Matching using Sentence Transformers
-* Feature Engineering
-* Hybrid Weighted Scoring
-* Recruiter-style Reasoning Generation
-
-The final output is a ranked shortlist of candidates that closely match the target role.
+Instead of relying solely on keyword matching, the system evaluates candidate relevance using career history, experience, profile information, recruiter activity, interview signals, GitHub engagement, and semantic similarity.
 
 ---
 
-## Problem Statement
+## Challenge Objective
 
-Traditional keyword-based candidate filtering often misses highly relevant candidates because it cannot understand context, experience, or semantic meaning.
+Traditional recruitment systems often miss strong candidates because they depend heavily on exact keyword matching.
 
-This project addresses that challenge by:
+This project aims to replicate how an experienced recruiter evaluates talent by:
 
-1. Understanding the job description semantically.
-2. Retrieving relevant candidates from a large dataset.
-3. Computing semantic similarity between candidates and the job description.
-4. Combining multiple recruiter-relevant signals into a final ranking score.
-5. Generating explainable reasoning for every recommended candidate.
+* Understanding job requirements semantically
+* Evaluating complete candidate profiles
+* Considering multiple hiring signals
+* Ranking candidates based on overall fit
+* Providing explainable recommendations
 
 ---
 
-## Dataset
+## Key Results
 
-The provided dataset contains:
+| Metric                     | Value            |
+| -------------------------- | ---------------- |
+| Total Candidates Processed | 100,000          |
+| Retrieved Candidates       | 1,179            |
+| Final Recommendations      | Top 100          |
+| Embedding Model            | all-MiniLM-L6-v2 |
+| Ranking Strategy           | Hybrid Scoring   |
+| Execution Time             | ~106 seconds     |
+
+---
+
+## Solution Architecture
+
+```text
+┌─────────────────────┐
+│ Job Description     │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Candidate Retrieval │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Semantic Matching   │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Feature Engineering │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Hybrid Scoring      │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Reasoning Engine    │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Top Candidate List  │
+└─────────────────────┘
+```
+
+---
+
+## Dataset Overview
+
+The provided dataset contains approximately 100,000 candidate profiles.
+
+Available information includes:
 
 * Candidate Profiles
+* Professional Summaries
 * Career History
 * Skills
 * Recruiter Activity Signals
-* GitHub Signals
 * Interview Signals
-* Open-to-Work Signals
+* GitHub Signals
+* Open-to-Work Indicators
 
-Dataset size:
+**Note:** Dataset files are excluded from this repository due to GitHub file size limitations.
 
-* ~100,000 candidates
-
-Note: The dataset is not included in this repository due to GitHub file size limitations.
-
-Place the provided dataset files inside the `data/` folder before running the project.
+Place all provided challenge datasets inside the `data/` directory before running the project.
 
 ---
 
-## Project Architecture
+## Candidate Retrieval Layer
 
-Job Description
-↓
-Candidate Retrieval
-↓
-Semantic Matching
-↓
-Feature Engineering
-↓
-Hybrid Scoring
-↓
-Candidate Ranking
-↓
-Reasoning Generation
-↓
-Final Submission
+To improve efficiency, an initial retrieval stage filters candidates using domain-specific recruitment keywords.
 
----
+Examples include:
 
-## Retrieval Layer
-
-The retrieval stage filters the candidate pool using domain-relevant keywords.
-
-Example keywords:
-
-* AI
-* ML
 * Machine Learning
-* Recommendation
-* Search
-* Retrieval
-* Ranking
-* NLP
+* AI Engineer
+* Recommendation Systems
+* Search Relevance
+* Retrieval Systems
 * Embeddings
+* Ranking Models
+* Information Retrieval
+* Production ML
 
-This step reduces the search space and improves ranking efficiency.
+This reduces the search space from:
 
-Results:
+```text
+100,000 Candidates
+        ↓
+1,179 Retrieved Candidates
+```
 
-* Total Candidates: 100,000
-* Retrieved Candidates: 1,179
+allowing semantic ranking to operate on a focused candidate pool.
 
 ---
 
 ## Semantic Matching
 
-The system uses:
+The system uses Sentence Transformers to understand semantic similarity between the job description and candidate profiles.
 
-Sentence Transformer:
+### Model
 
-`all-MiniLM-L6-v2`
+```text
+all-MiniLM-L6-v2
+```
 
-Process:
+### Process
 
-1. Convert Job Description into an embedding.
-2. Convert Candidate Profile into an embedding.
-3. Compute cosine similarity.
-4. Use similarity score as a ranking signal.
+1. Encode Job Description
+2. Encode Candidate Profile
+3. Generate Dense Embeddings
+4. Compute Cosine Similarity
+5. Use Similarity Score as Ranking Signal
 
-This allows the system to identify relevant candidates even when exact keywords do not match.
+This enables matching based on meaning rather than exact keywords.
 
 ---
 
 ## Feature Engineering
 
-The final ranking combines multiple signals:
+The ranking engine combines multiple candidate signals.
 
-### Semantic Score
+### Semantic Score (35%)
 
-Measures semantic similarity between candidate and job description.
+Measures semantic similarity between candidate profile and job description.
 
-### Career Relevance Score
+### Career Relevance Score (25%)
 
-Evaluates relevance of past work experience.
+Evaluates relevance of professional experience.
 
-### Skill Relevance Score
+### Skill Relevance Score (15%)
 
-Measures overlap between candidate expertise and role requirements.
+Measures alignment between candidate expertise and role requirements.
 
-### Title Relevance Score
+### Title Relevance Score (10%)
 
-Compares current title against target role.
+Compares candidate title against target role.
 
-### Experience Score
+### Experience Score (5%)
 
-Evaluates years and depth of experience.
+Rewards depth and maturity of experience.
 
-### GitHub Score
+### GitHub Score (4%)
 
-Rewards technical engagement and public contributions.
+Captures technical engagement and contribution signals.
 
-### Recruiter Score
+### Recruiter Score (3%)
 
-Incorporates recruiter activity signals.
+Incorporates recruiter interaction indicators.
 
-### Interview Score
+### Interview Score (2%)
 
-Uses interview-related indicators.
+Uses interview-related activity signals.
 
-### Open-to-Work Score
+### Open-to-Work Score (1%)
 
-Considers candidate availability.
+Reflects candidate availability.
 
 ---
 
-## Scoring Formula
+## Hybrid Scoring Formula
 
+```text
 Final Score =
 
-* Semantic Score × 0.35
-* Career Relevance × 0.25
-* Skill Relevance × 0.15
-* Title Relevance × 0.10
-* Experience × 0.05
-* GitHub × 0.04
-* Recruiter × 0.03
-* Interview × 0.02
-* Open-to-Work × 0.01
+0.35 × Semantic Score
++ 0.25 × Career Relevance
++ 0.15 × Skill Relevance
++ 0.10 × Title Relevance
++ 0.05 × Experience
++ 0.04 × GitHub
++ 0.03 × Recruiter Signals
++ 0.02 × Interview Signals
++ 0.01 × Open-to-Work Signals
+```
 
 ---
 
-## Results
+## Explainable Reasoning
 
-Pipeline Performance:
+Each recommended candidate includes a recruiter-style explanation describing why the candidate is relevant.
 
-* Total Candidates: 100,000
-* Retrieved Candidates: 1,179
-* Final Ranked Candidates: Top 100
+Example:
 
-Execution Time:
+> Senior Machine Learning Engineer demonstrates strong alignment with the role through experience in retrieval systems, ranking models, search relevance, and embedding-based search. The profile highlights relevant production AI/ML work and capabilities closely matching the job requirements.
 
-* Approximately 106 seconds
+This improves transparency and recruiter trust.
 
-Example Top Results:
+---
+
+## Example Results
 
 | Rank | Candidate ID | Score |
 | ---- | ------------ | ----- |
@@ -200,49 +230,51 @@ Example Top Results:
 
 ---
 
+## Challenge Requirement Coverage
+
+This solution satisfies all core challenge objectives:
+
+- Understands job descriptions semantically
+
+- Evaluates complete candidate profiles
+
+- Uses semantic search and ranking
+
+- Combines recruiter and behavioral signals
+
+- Produces explainable recommendations
+
+- Generates a recruiter-ready ranked shortlist
+
+---
+
 ## Repository Structure
 
+```text
 candidate-ranker/
 
 ├── data/
-
 ├── docs/
-
 ├── notebooks/
-
 ├── outputs/
-
-│ ├── final_rankings.csv
-
-│ └── final_submission.csv
-
+│   ├── final_rankings.csv
+│   └── final_submission.csv
 ├── src/
-
-│ ├── retrieval.py
-
-│ ├── semantic_matching.py
-
-│ ├── feature_engineering.py
-
-│ ├── scoring.py
-
-│ ├── reasoning.py
-
-│ ├── rank_candidates.py
-
-│ └── generate_submission.py
-
+│   ├── retrieval.py
+│   ├── semantic_matching.py
+│   ├── feature_engineering.py
+│   ├── scoring.py
+│   ├── reasoning.py
+│   ├── rank_candidates.py
+│   └── generate_submission.py
 ├── README.md
-
 ├── requirements.txt
-
 └── .gitignore
+```
 
 ---
 
 ## Installation
-
-Create virtual environment:
 
 ```bash
 python -m venv venv
@@ -276,7 +308,7 @@ Generate final submission:
 python src/generate_submission.py
 ```
 
-Output file:
+Output:
 
 ```text
 outputs/final_submission.csv
@@ -286,18 +318,18 @@ outputs/final_submission.csv
 
 ## Future Improvements
 
-* Dense Vector Retrieval using FAISS
-* Hybrid BM25 + Embedding Search
+* FAISS Vector Retrieval
+* Hybrid BM25 + Dense Retrieval
 * Cross-Encoder Re-ranking
-* LLM-based Candidate Reasoning
 * Learning-to-Rank Models
+* LLM-Based Candidate Explanations
 * Personalized Recruiter Preferences
-* Real-time Candidate Recommendations
+* Real-Time Candidate Recommendations
 
 ---
 
 ## Author
 
-Riya Diwakar
+**Riya Diwakar**
 
-Project Submission for The Data & AI Challenge
+Submission for **The Data & AI Challenge**
